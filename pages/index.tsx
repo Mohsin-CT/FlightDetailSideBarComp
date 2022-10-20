@@ -21,7 +21,7 @@ const FlightDetailsDefaultState: NextPage = () => {
 
   return (
     <div className="font-plus-jakarta-sans">
-      {/* <Head>
+      <Head>
         <title>Copilot Travel</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link
@@ -32,7 +32,7 @@ const FlightDetailsDefaultState: NextPage = () => {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap"
         />
-      </Head> */}
+      </Head>
       <FlightDetailSidebar />
 
 
